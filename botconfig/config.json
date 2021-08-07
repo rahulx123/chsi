@@ -1,0 +1,23 @@
+{
+  "token": "ODY4Mzc5Mjc2OTEzODExNDY3.YPuzOQ.wFXZ3lnMkm2n3DWTvMOO1IlGVuk",
+  "prefix": "billi",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+         "id": "Main",
+    "host": "lava.link",
+    "port": 80,
+    "pass": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "2a8aedfad21b4ce28d87b420e062a261",
+    "clientID": "f7746f1186864087874d9ca1bffeffb0"
+  }
+
+}
